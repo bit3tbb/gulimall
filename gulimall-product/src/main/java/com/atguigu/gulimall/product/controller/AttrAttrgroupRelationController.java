@@ -23,7 +23,7 @@ import com.atguigu.common.utils.R;
  *
  * @author bit3tbb
  * @email bit3tbb@gmail.com
- * @date 2022-01-02 22:59:37
+ * @date 2022-01-06 15:16:21
  */
 @RestController
 @RequestMapping("product/attrattrgrouprelation")
